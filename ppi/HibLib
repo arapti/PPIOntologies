@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="HibLib" systemlibrary="false">
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/hibernate-annotations.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/hibernate-commons-annotations.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/hibernate-core.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/ejb3-persistence.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-3.1.3/hibernate-3.1/lib/ehcache-1.1.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-3.1.3/hibernate-3.1/lib/jta.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-3.1.3/hibernate-3.1/lib/antlr-2.7.6rc1.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-3.1.3/hibernate-3.1/lib/asm.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-3.1.3/hibernate-3.1/lib/cglib-2.1.3.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-3.1.3/hibernate-3.1/lib/commons-logging-1.0.4.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-3.1.3/hibernate-3.1/lib/dom4j-1.6.1.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/slf4j-1.6.4/slf4j-1.6.4/slf4j-jdk14-1.6.4.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/slf4j-1.6.4/slf4j-1.6.4/slf4j-api-1.6.4.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hsqldb-2.2.6/hsqldb-2.2.6/hsqldb/lib/hsqldb.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/test/javassist.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/test/commons-collections.jar"/>
+        <archive path="C:/Documents and Settings/Stefanos/My Documents/mysql-connector-java-5.1.19/mysql-connector-java-5.1.19/mysql-connector-java-5.1.19-bin.jar"/>
+    </library>
+</eclipse-userlibraries>
